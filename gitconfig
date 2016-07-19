@@ -1,0 +1,7 @@
+[user]
+	email = jbrabec@purdue.edu
+	name = Jacob Brabec
+[color]
+	ui = auto
+[push]
+	default = matching
