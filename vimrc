@@ -55,5 +55,8 @@ set undolevels=1000
 syntax enable
 filetype plugin indent on
 
+"Backup Directory
+set backupdir=~/.vimbackup//
+
 "Use pathogen to load plugins
 execute pathogen#infect()
