@@ -1,0 +1,14 @@
+{
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	
+	"theme_accent_tangerine": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_size_lg": true
+}
